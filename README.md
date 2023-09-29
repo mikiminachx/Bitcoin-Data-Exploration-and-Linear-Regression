@@ -1,2 +1,2 @@
 # bitcoin_prediction
-Data science project
+Data science individual project 2021 for "Introduction of Data Science" UOB
